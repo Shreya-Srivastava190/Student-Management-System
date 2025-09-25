@@ -15,3 +15,5 @@ java -cp ../out edu.cam.cli.App
 - Enroll students and record scores
 - Transcript-style info shown in student details
 - Builder, Singleton-like repository, enums, and more
+
+# Student-Management-System
